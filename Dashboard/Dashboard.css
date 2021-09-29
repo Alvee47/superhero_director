@@ -1,0 +1,11 @@
+/* main dashbord  */
+.dashboard-container{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+}
+/* person list three column  */
+.person-container{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+   
+}

@@ -1,0 +1,35 @@
+/* person card desighn  */
+.person{
+    background-color: lightgrey;
+    border-radius: 20px;
+    margin: 10px;
+    height: 520px;
+}
+/* person image  */
+.person img{
+    margin: 15px;
+    height: 200px;
+    width: 250px;
+    border-radius: 50%;
+}
+/* text design  */
+.text-set{
+    text-align: left;
+    padding-left: 20px;
+}
+/* button which is a tag  */
+.btn-add{
+    text-align: center;
+    text-decoration: none;
+    padding: 10px 40px;
+    margin: 15px;
+    background-color: rgb(20, 102, 153);
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+    /* -decoration: none; */
+}
+/* hover effect  */
+.btn-add:hover{
+    opacity: 0.8;
+}
